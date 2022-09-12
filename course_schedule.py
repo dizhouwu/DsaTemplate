@@ -1,5 +1,5 @@
 def canFinish(self, n, prerequisites):
-    G = [[] for i in range(n)]
+    G = defaultdict(list)
     degree = [0] * n
     for j, i in prerequisites:
         G[i].append(j)
