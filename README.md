@@ -1,2 +1,2 @@
 # DsaTemplate
-Data Structure and Algorithims template which I am most familiar with for LeetCode, etc
+Don't threaten me with a LeetCode Hard.
